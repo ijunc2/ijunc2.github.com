@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/ijunc2"
 url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
