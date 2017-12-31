@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/"
-url: "https://ijunc2.github.io"
+baseurl: ""
+url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: ijunc2
+  title: ijunc
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -16,7 +16,7 @@ theme_settings:
      <p style=" font: bold 3.5em/1em Georgia, serif ;">iJunc's IT</p>
   header_text_feature_image: assets/img/pexels/book-coffee.jpeg
   footer_text: >
-   My first language is not english, so I am learning english now.<br/><br/>
+   My first language is not english, so I am learning english now. <br/>
    Created by ijunc2
 
   # Icons
