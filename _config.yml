@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/ijunc2"
+baseurl: "/"
 url: "https://ijunc2.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
