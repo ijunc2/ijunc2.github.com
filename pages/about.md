@@ -2,13 +2,22 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+feature-img: "assets/img/pexels/triangular.jpeg"
+tags: [Java, Javascript, React, ES6, AWS, Mysql, RX, ElasticSearch]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hi, I am a student who has some experiences as a programer for five years. When I was in Korea, I had worked for five years. I've participated some projects. I like learning the newest technology. Even though it is difficult for me to just know what kind of things I have to study, I am making efforts to be a good programer.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I am accustomed to back-end side, yet, nowadays, I am interested in front-end such as react.(actually, i am only interested in react :) )
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+* Email: <ijunc2@gmail.com>
+
+## Skills
+
+|<center>Backend</center>|<center>Frontend</center>|<center>Database</center>|
+|----|----|----|
+|Java|React|Mysql|
+|SpringFramework4-5|React-native|Oracle|
+|RxJava|Android|ElasticSearch|
+|Understanding about asyncronized Server|ES6|-|
+|AWS|-|-|

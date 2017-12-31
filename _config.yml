@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: ""
 url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: ijunc
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,21 +13,22 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p style=" font: bold 3.5em/1em Georgia, serif ;">iJunc's IT</p>
+  header_text_feature_image: assets/img/pexels/book-coffee.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   My first language is not english, so I am learning english now.<br/><br/>
+   Created by ijunc2
 
   # Icons
-  rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: false
+  email_address: "ijunc2@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: 
   google_plus:
   instagram:
   keybase:
@@ -45,7 +46,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: "ijunc2-github-io"
   katex: true # Enable if using math markup
   portfolio: true
   search: true
