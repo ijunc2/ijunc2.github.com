@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: "/ijunc2"
-url: "https://sylhare.github.io"
+url: "https://ijunc2.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: ijunc
+  title: ijunc2
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
