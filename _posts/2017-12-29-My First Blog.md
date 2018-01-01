@@ -96,6 +96,16 @@ I'm supposed to share my opionions which are classified into three categories in
 
 ps. I am still learning computer science and programing, so I should study a lot of things. I want to learn a lot with you guys. If there is anything wrong, please share and discuss with me in manners. 
 
+<div>
+  <br/><br/><br/>
+  <button class="btn" onclick="moveto('/2017/12/30/second.html');">Next</button>
+  <br/><br/><br/>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ijunc/comm.css">
+  <script src="{{ site.baseurl }}/assets/js/ijunc/comm.js"/>
+</div>
+
+
+
 
 
 
