@@ -66,12 +66,10 @@ This is the index of My Blogs. I am going to share my experiences and what I hav
     </div>
     <div id="collapseThree" class="collapse show" role="tabpanel" aria-labelledby="headingThree">
       <div class="card-block">
-        <div class="card-block">
-          <a href="/2017/12/30/second.html" >
-            <font size="3" color="#CD5C5C">* Why should we use Webpack & Babel(1)</font>
-          </a>
-        </div> 
-      </div>
+        <a href="/2017/12/30/second.html" >
+          <font size="3" color="#CD5C5C">* Why should we use Webpack & Babel(1)</font>
+        </a>
+      </div> 
     </div>
   </div>
 
