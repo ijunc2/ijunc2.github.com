@@ -6,9 +6,9 @@ feature-img: "assets/img/pexels/triangular.jpeg"
 tags: [Java, Javascript, React, ES6, AWS, Mysql, RX, ElasticSearch]
 ---
 
-Hi, I am a student who has some experiences as a programer for five years. When I was in Korea, I had worked for five years. I've participated some projects. I like learning the newest technology. Even though it is difficult for me to just know what kind of things I have to study, I am making efforts to be a good programer.
+Hi, I am a student who has some experiences as a programer for five years. When I was in Korea, I had worked for five years. I've participated some projects. I like learning the newest technology. Even though it is difficult for me to just know what kind of things I have to study, I am making efforts to be a good programer. And I am studying English in Cupertino in U.S, so sometimes, it is difficult for you guys to understand what i say. Whenever it gets you to understand posts difficultly, please add to your comment.
 
-I am accustomed to back-end side, yet, nowadays, I am interested in front-end such as react.(actually, i am only interested in react :) )
+**I** am accustomed to back-end side, yet, nowadays, I am interested in front-end such as react.(actually, i am only interested in react :) )
 
 * Email: <ijunc2@gmail.com>
 
