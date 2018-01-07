@@ -1,9 +1,0 @@
-30min :: futuretask -> callback using interface
-* 비동기 작업의 기본이 되는 결과를 넘기는 기법: future만 쓸경우는 에러에 대한 코드 블럭이 필요하지만 callback Future과 인터페이스를 사용해서 보다 깔끔하고 우아한 코드를 만들수 있다. 이후에 보다 나은 코드 기법들이 존재한다. 
-* 자바 nio에서 제공하는 클래스가 존재: AsynchronousByteChannel CompletionHandler 인터페이스에 두개의 메소드가 존재하므로 람다식으로 사용할수 없음. 1.8에서 만들었으면 나눠서 만들어서 람다식을 적용시켯을듯.
-* 비지니스 로직코드와 기술적인 코드를 불리시키는 코드만들기.
-
-스프링에서 비동기 작업하는 방법
-1. Async : AOP 적용됨. @Async 에서 Future를 반환하게 되는데 그럴경우, get()에 의해서 블락이 걸릴수 밖에 없다. 이를 대안하기 위해 ListenableFuture (스프링4)가 나옴.
-
-@Async 쓰레드 정책
