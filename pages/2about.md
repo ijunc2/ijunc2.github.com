@@ -18,6 +18,6 @@ Hi, I am a student who has some experiences as a programer for five years. When 
 |----|----|----|
 |Java|React|Mysql|
 |SpringFramework4-5|React-native|Oracle|
-|RxJava|Android|ElasticSearch|
+|RxJava|Android|ElasticSearch, ELRK stack|
 |Understanding about asyncronized Server|ES6|-|
-|AWS|-|-|
+|AWS, Jenkins, ...|-|-|
