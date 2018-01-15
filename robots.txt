@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ijunc2.github.io/sitemap.xml
