@@ -3,8 +3,9 @@ layout: post
 title: Spring Boot & React
 comment: true
 tags: [Srping boot, react, webpack]
-changefreq : daily
-priority : 1.0
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 ***Many people*** who are programer have been using Java. Particularly, Spring Framework is so popular in the world. With Spring Framework, Javascript has been improved rapidly since NodeJS revealed. Because I have only been used Spring before, I have been through many errors when I learned React. So, from now on, I am going to share my experiences about the ways to interwork both Spring boot and React. I am going to continue this post as I aussume that you already have some background knowledges about [Spring Boot](https://projects.spring.io/spring-boot/#quick-start).
