@@ -4,7 +4,7 @@ title: Spring Boot & React
 comment: true
 tags: [Srping boot, react, webpack]
 sitemap :
-  changefreq : daily
+  changefreq : Monthly
   priority : 1.0
 ---
 
