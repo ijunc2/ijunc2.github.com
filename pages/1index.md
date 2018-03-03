@@ -45,7 +45,7 @@ This is the index of My Blogs. I am going to share my experiences and what I hav
   </a> <br/> 
   <a href="/2018/02/20/eighth.html" >
     <font size="4" color="#CD5C5C">* The Async Of The Spring For High Availability.</font>
-  </a></font>   
+  </a>
 </div>
 
 <br/>
